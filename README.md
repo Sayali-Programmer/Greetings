@@ -1,4 +1,4 @@
-# Greetings
+
 """Exercise 2 :-Create a python program capable of greeting you with Good Morning 
 ,Good Afternoon and Good Evening your program should use time module to get the current hour"""
 # I learned this program from code with harry youtube channel
